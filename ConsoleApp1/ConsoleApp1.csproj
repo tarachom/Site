@@ -49,5 +49,28 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="php\index.php" />
+    <Content Include="php\lib.php" />
+    <Content Include="php\xml.php" />
+    <Content Include="xml\block.xsl" />
+    <Content Include="xml\block\about\about\1.xml" />
+    <Content Include="xml\block\contacts\contacts\1.xml" />
+    <Content Include="xml\block\services\installation_of_alarms\1.xml" />
+    <Content Include="xml\block\services\installation_of_intercoms\1.xml" />
+    <Content Include="xml\block\services\installation_of_local_area_networks\1.xml" />
+    <Content Include="xml\block\services\installation_of_video_surveillance\1.xml" />
+    <Content Include="xml\block\services\installation_of_wiring\1.xml" />
+    <Content Include="xml\block\shop\cable_wires\1.xml" />
+    <Content Include="xml\block\shop\circuit_breaker\1.xml" />
+    <Content Include="xml\block\shop\differential_vending_machines\1.xml" />
+    <Content Include="xml\block\shop\electrical_shields\1.xml" />
+    <Content Include="xml\info.xml" />
+    <Content Include="xml\info.xsl" />
+    <Content Include="xml\webdata\import0_1.xml" />
+    <Content Include="xml\webdata\import1_1.xml" />
+    <Content Include="xml\webdata\import2_1.xml" />
+    <Content Include="xml\webdata\import3_1.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

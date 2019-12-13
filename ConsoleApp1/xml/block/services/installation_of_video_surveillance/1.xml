@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+
+  <card>
+  
+    <title>Встановлення відеонагляду</title>
+
+    <p>
+
+      <img>
+        <src>installation_of_video_surveillance.jpg</src>
+      </img>
+
+      <description>
+        <![CDATA[ 
+        Опис послуги
+        ]]>
+      </description>
+    
+    </p>
+
+    <p>
+
+      <img>
+        <src>installation_of_video_surveillance2.jpg</src>
+      </img>
+
+      <description>
+        <![CDATA[ 
+        
+        ]]>
+      </description>
+
+    </p>
+
+  </card>
+
+</root>

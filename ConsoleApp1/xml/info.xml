@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+  <menu>
+
+    <item key="about">
+      <title>Про нас</title>
+      <desc/>
+      <href>/</href>
+    </item>
+    
+    <item key="services">
+      <title>Послуги</title>
+      <desc/>
+      <href>/</href>
+    </item>
+    
+    <item key="shop">
+      <title>Магазин</title>
+      <desc/>
+      <href>/</href>
+    </item>
+
+    <item key="contacts">
+      <title>Контакти</title>
+      <desc/>
+      <href>/</href>
+    </item>
+        
+  </menu>
+
+  <catalog>
+
+    <block section_key="about">
+
+      <item key="about">
+        <title>Про нас</title>
+        <card>
+          <file>1.xml</file>
+        </card>
+      </item>
+      
+    </block>
+    
+    <block section_key="services">
+
+      <item key="installation_of_video_surveillance">
+        <title>Встановлення відеонагляду</title>
+        <card>
+          <file>1.xml</file>
+        </card>
+      </item>
+
+      <item key="installation_of_alarms">
+        <title>Встановлення сигналізацій</title>
+        <card>
+          <file>1.xml</file>
+        </card>
+      </item>
+
+      <item key="installation_of_local_area_networks">
+        <title>Монтаж локальних мереж</title>
+        <card>
+          <file>1.xml</file>
+        </card>
+      </item>
+      
+      <item key="installation_of_intercoms">
+        <title>Встановлення домофонів</title>
+        <card>
+          <file>1.xml</file>
+        </card>
+      </item>
+
+      <item key="installation_of_wiring">
+        <title>Монтаж електропроводки</title>
+        <card>
+          <file>1.xml</file>
+        </card>
+      </item>
+      
+    </block>
+    
+    <block section_key="shop">
+
+      
+
+      
+      
+      
+
+      
+
+            
+
+    <item key="cable_wires"><title>Кабель провід</title><card><file>1.xml</file></card></item><item key="circuit_breaker"><title>Автомати</title><card><file>1.xml</file></card></item><item key="electrical_shields"><title>Електричні щити</title><card><file>1.xml</file></card></item><item key="differential_vending_machines"><title>Диференціальні автомати</title><card><file>1.xml</file></card></item></block>
+
+    <block section_key="contacts">
+
+      <item key="contacts">
+        <title>Контакти</title>
+        <card>
+          <file>1.xml</file>
+        </card>
+      </item>
+      
+      <item key="form">
+        <title>Зворотній з'язок</title>
+      </item>
+      
+    </block>
+        
+  </catalog>
+  
+</root>

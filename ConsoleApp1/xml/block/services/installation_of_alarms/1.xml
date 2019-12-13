@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+
+  <card>
+  
+    <title>Встановлення сигналізацій</title>
+
+    <p>
+
+      <img>
+        <src>Vstanovlennya-oxoronnoyi-sygnalizaciyi-Amperage.jpg</src>
+      </img>
+
+      <description>
+        <![CDATA[ 
+        Опис послуги
+        ]]>
+      </description>
+    
+    </p>
+
+    <p>
+
+      <img>
+        <src>343_big.png</src>
+      </img>
+
+      <description>
+        <![CDATA[ 
+        Опис послуги
+        ]]>
+      </description>
+
+    </p>
+
+  </card>
+
+</root>
