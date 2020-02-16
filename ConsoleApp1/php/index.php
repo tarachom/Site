@@ -6,7 +6,7 @@ include "lib.php";
 //error_reporting(E_ALL);
 
 //Папка з хмл даними
-$path_to_xml = "/home/tarac196/xml/";
+$path_to_xml = "/home/data/xml/";
 
 //Розділ сайту по замовчуванню
 $Menu_Section_Default = "services";
